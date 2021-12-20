@@ -16,7 +16,24 @@
     "location": "Werchter",
     "date": "July 04 2021",
     "time": "09:00"
-  }
+  },{
+      "id":3,
+      "category":"concert",
+      "title": "pukkelpop",
+      "description": "classic",
+      "location": "Werchter",
+      "date": "July 28 2021",
+      "time": "09:00"
+    },
+    {
+      "id":4,
+      "category":"concert",
+      "title": "dance mania",
+      "description": "dance",
+      "location": "gent",
+      "date": "July 06 2021",
+      "time": "09:00"
+    }
 
 ]
 }
